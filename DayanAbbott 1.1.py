@@ -29,5 +29,3 @@ C_v = sigma_tau / tau_average #Coefficient of variation of interspike interval
 print(sigma_tau)
 print(tau_average)
 print(C_v)
-
-#Want to learn how to create multiple trials to compute Fano factor and coefficient of variation.
