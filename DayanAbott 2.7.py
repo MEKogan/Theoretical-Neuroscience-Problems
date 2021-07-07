@@ -38,6 +38,3 @@ plt.xlabel('K (degrees)')
 plt.ylabel(r'$L_s$')
 plt.show()
 
-#Plot L_s as a function of Phi taking 1/K = .5 and A = 50
-
-Phi = np.arange(0, 2*np.pi, .1)
